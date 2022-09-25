@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DMDDesafioFiorella", "DMDDesafioFiorella.dtproj", "{D115B965-9254-45F6-96EF-F501138004CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D115B965-9254-45F6-96EF-F501138004CD}.Development|Default.ActiveCfg = Development
+		{D115B965-9254-45F6-96EF-F501138004CD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61EE0514-6D64-47E4-914E-CBF3E1DD89BF}
+	EndGlobalSection
+EndGlobal
